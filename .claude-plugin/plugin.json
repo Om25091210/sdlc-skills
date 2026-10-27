@@ -1,0 +1,5 @@
+{
+  "name": "sdlc",
+  "description": "End-to-end SDLC skills: requirements, architecture (PDF), gated build, security check, QA hammer testing, and per-feature workflow",
+  "version": "1.0.0"
+}

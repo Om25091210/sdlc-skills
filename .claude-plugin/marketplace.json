@@ -1,0 +1,7 @@
+{
+  "name": "sdlc-skills",
+  "owner": { "name": "om25091210" },
+  "plugins": [
+    { "name": "sdlc", "source": "./", "description": "Requirements → architecture → build → security → QA → feature workflow" }
+  ]
+}
